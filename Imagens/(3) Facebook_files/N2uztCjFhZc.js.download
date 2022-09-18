@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("GroupsCometEntityMenuGroupStripEnabled.relayprovider",["qex"],(function(a,b,c,d,e,f,g){"use strict";a={get:function(){return Boolean(c("qex")._("872"))}};g["default"]=a}),98);
+__d("GroupsCometEntityMenuSearchBarEnabled.relayprovider",["qex"],(function(a,b,c,d,e,f,g){"use strict";a={get:function(){return Boolean(c("qex")._("776"))}};g["default"]=a}),98);

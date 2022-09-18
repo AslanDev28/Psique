@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("PagesCometInviteFriendsDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5251669138211195"}),null);
+__d("PagesCometInviteFriendsDialogQuery$Parameters",["PagesCometInviteFriendsDialogQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("PagesCometInviteFriendsDialogQuery_facebookRelayOperation"),metadata:{},name:"PagesCometInviteFriendsDialogQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("PagesCometInviteFriendsDialog.entrypoint",["JSResourceForInteraction","PagesCometInviteFriendsDialogQuery$Parameters","WebPixelRatio"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){return{queries:{dialogQueryReference:{options:{fetchPolicy:"network-only"},parameters:c("PagesCometInviteFriendsDialogQuery$Parameters"),variables:{pageID:a.pageID,scale:d("WebPixelRatio").get()}}}}},root:c("JSResourceForInteraction")("PagesCometInviteFriendsDialog.react").__setRef("PagesCometInviteFriendsDialog.entrypoint")};g["default"]=a}),98);

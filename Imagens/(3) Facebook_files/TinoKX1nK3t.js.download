@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("LiveProducerRootContextProviderQuery$Parameters",["LiveProducerRootContextProviderQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("LiveProducerRootContextProviderQuery_facebookRelayOperation"),metadata:{},name:"LiveProducerRootContextProviderQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("LiveProducerTargetSelectorQuery$Parameters",["LiveProducerTargetSelectorQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("LiveProducerTargetSelectorQuery_facebookRelayOperation"),metadata:{},name:"LiveProducerTargetSelectorQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("useSwitchToAdditionalProfileQuery$Parameters",["useSwitchToAdditionalProfileQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("useSwitchToAdditionalProfileQuery_facebookRelayOperation"),metadata:{},name:"useSwitchToAdditionalProfileQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("GroupsCometPreviewExperienceDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="37202206788235"}),null);

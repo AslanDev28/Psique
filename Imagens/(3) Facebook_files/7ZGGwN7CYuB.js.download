@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("useBizWebRouteDispatcher",["cr:2026749"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=b("cr:2026749")}),98);
+__d("useBusinessCometRouteDispatcher",["URI","jsRouteBuilder","react","useCometRouterDispatcher"],(function(a,b,c,d,e,f,g){"use strict";var h=d("react").useCallback;function a(){var a=c("useCometRouterDispatcher")();return h(function(b,d,e,f){f=new(c("URI"))(b);b=babelHelpers["extends"]({},f.getQueryData(),d);d=c("jsRouteBuilder")(f.getPath(),Object.freeze({}));a==null?void 0:a.go(d.buildUri(b).toString(),(f=e)!=null?f:{})},[a])}g["default"]=a}),98);
